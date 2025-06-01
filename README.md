@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### [🔴 Live Demo](your-deployment-link) | [📹 Video Demo](your-video-link)
+### [🔴 Live Demo](https://eppysmovie.streamlit.app/)
 
 </div>
 
